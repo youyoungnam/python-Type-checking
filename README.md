@@ -8,3 +8,5 @@
 - type alias 사용법 
 - requests 요청
 - response json 타입 지정 방법
+
+## Class type 지정
